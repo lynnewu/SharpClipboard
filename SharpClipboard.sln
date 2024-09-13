@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30002.166
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpClipboard", "SharpClipboard\SharpClipboard.csproj", "{005C3326-D638-4113-AEBB-A83433CC015E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpClipboard.Tests.WinForms", "SharpClipboard.Tests.WinForms\SharpClipboard.Tests.WinForms.csproj", "{86F8EAC7-259D-4A2F-842D-AA93163293C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpClipboard.Tests.NetCoreWinForms", "SharpClipboard.Tests.NetCoreWinForms\SharpClipboard.Tests.NetCoreWinForms.csproj", "{D73E5EB1-DC2F-46E2-A30D-D76ECF2C4A07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpClipboard.Tests.NetCoreWinForms", "SharpClipboard.Tests.NetCoreWinForms\SharpClipboard.Tests.NetCoreWinForms.csproj", "{D73E5EB1-DC2F-46E2-A30D-D76ECF2C4A07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B6BC22D-45B7-434E-AF33-C3336363940F}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

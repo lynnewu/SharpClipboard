@@ -1,3 +1,7 @@
+#  Updates as of 2024-09-13
+- removed old .Net compabilities since they broke the build in VS2022
+- Updated to support net7.0-windows (only)
+
 # SharpClipboard
 [![nuget-downloads](https://img.shields.io/nuget/dt/SharpClipboard?label=Downloads)](https://www.nuget.org/packages/SharpClipboard/) [![wk-donate](https://img.shields.io/badge/BuyMeACoffee-Donate-orange.svg)](https://www.buymeacoffee.com/willykimura)
 
